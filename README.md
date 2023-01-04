@@ -1,11 +1,9 @@
 <h1 align="center">
-  <a href="https://github.com/hiriski/coursespace-landing-page">
-  Coursespace - React Online Course Landing Page
+  <a href="https://github.com/alifianadexe/furniture-store">
+  Furniture Store
   </a>
   <br />
 </h1>
-
-![screenshot](public/images/image_processing20220419-31825-1yzr3x9.png)
 
 **Coursespace** is a free landing page template built on top of Material UI and fully coded in **React**.
 Simple & light is designed to provide all the basic components using the `sx` prop for a developer need to create landing page for Online Course product.
@@ -65,4 +63,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   Designed by
   <p> 
   <a href="https://dribbble.com/naiflaramadhan">Alfian Ramadhan</a>
+  <p>
+  And Modified by
+  </p>
+  <a href="https://alifianadexe.com">Muhammad Aqshol</a>
 </h6>
