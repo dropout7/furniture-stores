@@ -4,7 +4,6 @@ import Box from '@mui/material/Box'
 import Rating from '@mui/material/Rating'
 import Typography from '@mui/material/Typography'
 import IconButton, { iconButtonClasses } from '@mui/material/IconButton'
-import ArrowForward from '@mui/icons-material/ArrowForward'
 import { Course } from '@/interfaces/course'
 
 interface Props {
@@ -61,14 +60,8 @@ const CourseCardItem: FC<Props> = ({ item }) => {
             <Typography variant="h5" color="primary.main">
               {'$' + item.price}
             </Typography>
-            <Typography variant="h6">/ course</Typography>
+            <Typography variant="h6">/ Item</Typography>
           </Box>
-          <IconButton
-            color="primary"
-            sx={{ '&:hover': { backgroundColor: 'primary.main', color: 'primary.contrastText' } }}
-          >
-            <ArrowForward />
-          </IconButton>
         </Box>
       </Box>
     </Box>

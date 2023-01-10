@@ -86,7 +86,7 @@ const HomePopularCourse: FC = () => {
           md: 8,
         },
         pb: 14,
-        backgroundColor: 'background.default',
+        backgroundColor: '#c5894b',
       }}
     >
       <Container maxWidth="lg">
@@ -102,7 +102,7 @@ const HomePopularCourse: FC = () => {
               }}
             >
               <Typography variant="h1" sx={{ mt: { xs: 0, md: -5 }, fontSize: { xs: 30, md: 48 } }}>
-                Most Popular Courses
+                Most Popular Product
               </Typography>
             </Box>
           </Grid>
