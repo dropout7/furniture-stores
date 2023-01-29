@@ -46,43 +46,6 @@ const HomeFeature: FC = () => {
               <Box
                 sx={{
                   position: 'absolute',
-                  top: -36,
-                  right: { xs: 0, md: -36 },
-                  boxShadow: 2,
-                  borderRadius: 1,
-                  px: 2.2,
-                  py: 1.4,
-                  zIndex: 1,
-                  backgroundColor: 'background.paper',
-                  width: 190,
-                }}
-              >
-                <Typography variant="h5" sx={{ mb: 1 }}>
-                  Lorem ipsum dolor
-                </Typography>
-                <Box sx={{ mb: 2 }}>
-                  <Typography variant="subtitle1" color="text.secondary">
-                    UI/UI Design
-                  </Typography>
-                  <BorderLinearProgress variant="determinate" color="inherit" value={65} order={1} />
-                </Box>
-                <Box sx={{ mb: 2 }}>
-                  <Typography variant="subtitle1" color="text.secondary">
-                    Mobile Development
-                  </Typography>
-                  <BorderLinearProgress variant="determinate" color="inherit" value={40} order={2} />
-                </Box>
-                <Box sx={{ mb: 2 }}>
-                  <Typography variant="subtitle1" color="text.secondary">
-                    Web Development
-                  </Typography>
-                  <BorderLinearProgress variant="determinate" color="inherit" value={50} order={3} />
-                </Box>
-              </Box>
-
-              <Box
-                sx={{
-                  position: 'absolute',
                   bottom: -12,
                   left: { xs: 0, md: -24 },
                   boxShadow: 2,
@@ -103,10 +66,8 @@ const HomeFeature: FC = () => {
                     flexDirection: 'column',
                   }}
                 >
-                  <Typography sx={{ fontWeight: 600, lineHeight: 1 }}>Lorem ipsum</Typography>
-                  <Typography variant="subtitle1" sx={{ mb: 1, color: 'text.disabled' }}>
-                    Lorem ipsum
-                  </Typography>
+                  <Typography sx={{ fontWeight: 600, lineHeight: 1 }}>Teak Wood</Typography>
+                  <Typography variant="subtitle1" sx={{ mb: 1, color: 'text.disabled' }}></Typography>
                   <Box
                     sx={{
                       height: 85,
@@ -118,7 +79,7 @@ const HomeFeature: FC = () => {
                     }}
                   >
                     <Typography variant="h4" sx={{ color: '#32dc88' }}>
-                      75%
+                      100%
                     </Typography>
                     <CircularProgress
                       sx={{ position: 'absolute', color: 'divider' }}
@@ -130,7 +91,7 @@ const HomeFeature: FC = () => {
                     <CircularProgress
                       thickness={2}
                       variant="determinate"
-                      value={75}
+                      value={100}
                       size={85}
                       sx={{ transform: 'rotate(96deg) !important', color: '#32dc88', position: 'absolute' }}
                     />
@@ -152,7 +113,7 @@ const HomeFeature: FC = () => {
                 fontWeight: 'bold',
               }}
             >
-              Make your{' '}
+              Premium{' '}
               <Typography
                 component="mark"
                 sx={{
@@ -163,7 +124,7 @@ const HomeFeature: FC = () => {
                   backgroundColor: 'unset',
                 }}
               >
-                Learning <br />
+                Quality{' '}
                 <Box
                   sx={{
                     position: 'absolute',
@@ -177,7 +138,7 @@ const HomeFeature: FC = () => {
                   <img src="/images/headline-curve.svg" alt="Headline curve" />
                 </Box>
               </Typography>
-              Enjoyable
+              Material
             </Typography>
 
             <Typography sx={{ color: 'text.secondary', mb: 2, ml: { xs: 0, md: 4 } }}>

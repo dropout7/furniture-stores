@@ -12,22 +12,22 @@ interface Data {
 
 export const data: Data[] = [
   {
-    title: 'Easy Accessable',
+    title: 'Water and Pest Resistant',
     description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
     icon: <ArtTrackIcon />,
   },
   {
-    title: 'More Affordable Cost',
+    title: 'Durability 5 Years',
     description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
     icon: <AttachMoneyIcon />,
   },
   {
-    title: 'Flexible Study Time',
+    title: 'Long Lasting Color',
     description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
     icon: <LocalLibraryIcon />,
   },
   {
-    title: 'Consultation With Mentor',
+    title: 'Maximum Weight 120 Pounds',
     description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
     icon: <ContactSupportIcon />,
   },

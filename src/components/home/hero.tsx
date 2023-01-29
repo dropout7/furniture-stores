@@ -135,7 +135,7 @@ const HomeHero: FC = () => {
               <Box sx={{ mb: 4, width: { xs: '100%', md: '70%' } }}>
                 <Typography sx={{ color: '#717171', lineHeight: 1.6 }}>
                   {
-                    "Let's take an online course to improve your skills in a different way, you can set your own study time according to your learning speed. So you san study comfortable and absorb tge material easily."
+                    'We provide everything you need for your dream home to make it more comfortable with the best quality and attractive design, you can choose from a existing models or create your own design'
                   }
                 </Typography>
               </Box>
@@ -186,10 +186,10 @@ const HomeHero: FC = () => {
                   component="h6"
                   sx={{ color: 'secondary.main', fontSize: '1.1rem', fontWeight: 700, mb: 0.5 }}
                 >
-                  Export
+                  Explore To Export
                 </Typography>
                 <Typography variant="subtitle1" sx={{ color: 'text.secondary', lineHeight: 1.3 }}>
-                  Ready to Export Europe
+                  Ready Going To Europe
                 </Typography>
               </Box>
             </Box>

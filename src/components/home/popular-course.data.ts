@@ -3,7 +3,7 @@ import type { Course } from '@/interfaces/course'
 export const data: Array<Course> = [
   {
     id: 1,
-    cover: '/images/courses/a9e7b27a0c5e986a22416d79e2e9dba9.jpg',
+    cover: '/images/Produk/lazychair.jpg',
     title: 'Cozy Chair',
     rating: 5,
     ratingCount: 8,
@@ -12,7 +12,7 @@ export const data: Array<Course> = [
   },
   {
     id: 2,
-    cover: '/images/courses/alvaro-reyes-qWwpHwip31M-unsplash.jpg',
+    cover: '/images/Produk/Coffietab.png',
     title: 'Coffee Table',
     rating: 5,
     ratingCount: 15,
@@ -21,7 +21,7 @@ export const data: Array<Course> = [
   },
   {
     id: 3,
-    cover: '/images/courses/christopher-gower-m_HRfLhgABo-unsplash.jpg',
+    cover: '/images/Produk/kitchen_decor.jpg',
     title: 'Kitchen Decoration',
     rating: 4,
     ratingCount: 7,
@@ -30,7 +30,7 @@ export const data: Array<Course> = [
   },
   {
     id: 4,
-    cover: '/images/courses/true-agency-o4UhdLv5jbQ-unsplash.jpg',
+    cover: '/images/Produk/wardrobe.jpg',
     title: 'Wardrobe',
     rating: 4,
     ratingCount: 12,
@@ -39,8 +39,8 @@ export const data: Array<Course> = [
   },
   {
     id: 5,
-    cover: '/images/courses/stillness-inmotion-Jh6aQX-25Uo-unsplash.jpg',
-    title: 'Modern Book shelves',
+    cover: '/images/Produk/modern_book_rak.jpg',
+    title: 'Modern Book Shelves',
     rating: 4,
     ratingCount: 32,
     price: 35,
@@ -48,7 +48,7 @@ export const data: Array<Course> = [
   },
   {
     id: 6,
-    cover: '/images/courses/stillness-inmotion-YSCCnRGrD-4-unsplash.jpg',
+    cover: '/images/Produk/japaneseModelTV.jpg',
     title: 'Japanese Model Cabinet TV',
     rating: 5,
     ratingCount: 14,
@@ -57,7 +57,7 @@ export const data: Array<Course> = [
   },
   {
     id: 7,
-    cover: '/images/courses/grovemade-RvPDe41lYBA-unsplash.jpg',
+    cover: '/images/Produk/DressTable.png',
     title: 'Dressing table',
     rating: 4,
     ratingCount: 6,
