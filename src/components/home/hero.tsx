@@ -82,7 +82,7 @@ const HomeHero: FC = () => {
                       backgroundColor: 'unset',
                     }}
                   >
-                    Mecrame ID{' '}
+                    Macrame ID{' '}
                     <Box
                       sx={{
                         position: 'absolute',

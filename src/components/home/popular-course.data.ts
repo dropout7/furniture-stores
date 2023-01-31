@@ -21,8 +21,8 @@ export const data: Array<Course> = [
   },
   {
     id: 3,
-    cover: '/images/Produk/kitchen_decor.jpg',
-    title: 'Kitchen Decoration',
+    cover: '/images/Produk/DSC00071.jpg',
+    title: 'Shoes',
     rating: 4,
     ratingCount: 7,
     price: 30,
@@ -48,8 +48,8 @@ export const data: Array<Course> = [
   },
   {
     id: 6,
-    cover: '/images/Produk/japaneseModelTV.jpg',
-    title: 'Japanese Model Cabinet TV',
+    cover: '/images/Produk/DSC00019.jpg',
+    title: 'Bag',
     rating: 5,
     ratingCount: 14,
     price: 35,
