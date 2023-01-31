@@ -12,7 +12,7 @@ export const data: Array<Course> = [
   },
   {
     id: 2,
-    cover: '/images/Produk/Coffietab.png',
+    cover: '/images/Produk/coffietab.png',
     title: 'Coffee Table',
     rating: 5,
     ratingCount: 15,
