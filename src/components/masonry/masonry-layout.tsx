@@ -8,7 +8,7 @@ import Masonry from 'react-masonry-css'
 import MasonryBox from './masonry-box'
 
 // MasonryLayout Component
-const MasonryLayout = ({ images }: any) => {
+const MasonryLayout = ({ images }: any): JSX.Element => {
   const breakpointColumnsObj = {
     default: 4,
     1100: 3,

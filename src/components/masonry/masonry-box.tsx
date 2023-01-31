@@ -13,7 +13,7 @@ const MasonryBox = ({
   userProf: any
   userName: any
   userJob: any
-}) => {
+}): JSX.Element => {
   return (
     <div className={styles['my-masonry']}>
       <img src={wallSrc} style={{ width: '100%' }} alt="" />
