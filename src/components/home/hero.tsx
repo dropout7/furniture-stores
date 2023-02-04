@@ -82,7 +82,7 @@ const HomeHero: FC = () => {
                       backgroundColor: 'unset',
                     }}
                   >
-                    Macrame ID{' '}
+                    Macrame{' '}
                     <Box
                       sx={{
                         position: 'absolute',
@@ -112,7 +112,7 @@ const HomeHero: FC = () => {
                       },
                     }}
                   >
-                    Furniture And Decor
+                    International
                     <svg version="1.1" viewBox="0 0 3183 3072">
                       <g id="Layer_x0020_1">
                         <path

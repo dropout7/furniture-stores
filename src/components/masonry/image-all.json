@@ -11,10 +11,10 @@
       },
       {
         "id": "wallpaper 2",
-        "src": "img/wallpapers/workdesk.jpg",
+        "src": "img/wallpapers/Product-12.png",
         "user": {
-          "name": "Desk",
-          "job": "Modern Design"
+          "name": "Outdoor Chair",
+          "job": "Classic Design"
         }
       },
       {
@@ -27,10 +27,10 @@
       },
       {
         "id": "wallpaper 4",
-        "src": "img/wallpapers/kitchen-2.png",
+        "src": "img/wallpapers/Product-10-768x1024.png",
         "user": {
-          "name": "Kitchen Set",
-          "job": "Fancy Design"
+          "name": "Outdoor Chair",
+          "job": "Classic Design"
         }
       },
       {
@@ -43,17 +43,17 @@
       },
       {
         "id": "wallpaper 6",
-        "src": "img/wallpapers/wardrobe-bedroom.jpg",
+        "src": "img/wallpapers/DSC00107.jpg",
         "user": {
-          "name": "Wardrobe",
-          "job": "Casual Design"
+          "name": "Batik Cloth",
+          "job": "Cloth"
         }
       },
       {
         "id": "wallpaper 7",
-        "src": "img/wallpapers/tvcabinet.jpg",
+        "src": "img/wallpapers/DSC00048.png",
         "user": {
-          "name": "TV Cabinet",
+          "name": "Bag",
           "job": "Modern Design"
         }
       },
@@ -67,18 +67,18 @@
       },
       {
         "id": "wallpaper 9",
-        "src": "img/wallpapers/cabinet-tv-2.jpg",
+        "src": "img/wallpapers/DSC00071.jpg",
         "user": {
-          "name": "TV Cabinet",
-          "job": "Japanese Design"
+          "name": "Casual Shoes",
+          "job": "Modern Design"
         }
       },
       {
         "id": "wallpaper 10",
-        "src": "img/wallpapers/wood-bedroom.jpg",
+        "src": "img/wallpapers/DSC00079.jpg",
         "user": {
-          "name": "Bed Board",
-          "job": "American Wood Design"
+          "name": "Red Cloth",
+          "job": "Classic Design"
         }
       },
       {
@@ -91,14 +91,6 @@
       },
       {
         "id": "wallpaper 12",
-        "src": "img/wallpapers/Chairpool.png",
-        "user": {
-          "name": "Chair Pool",
-          "job": "Casual Design"
-        }
-      },
-      {
-        "id": "wallpaper 13",
         "src": "img/wallpapers/chairbeach.png",
         "user": {
           "name": "Chair Beach",
@@ -106,7 +98,7 @@
         }
       },
       {
-        "id": "wallpaper 14",
+        "id": "wallpaper 13",
         "src": "img/wallpapers/ousidetableset.png",
         "user": {
           "name": "Table Set",
@@ -114,31 +106,15 @@
         }
       },
       {
+        "id": "wallpaper 14",
+        "src": "img/wallpapers/DSC00088.jpg",
+        "user": {
+          "name": "Batik Cloth",
+          "job": "Local Model"
+        }
+      },
+      {
         "id": "wallpaper 15",
-        "src": "img/wallpapers/tableset.jpg",
-        "user": {
-          "name": "Table Set",
-          "job": "Japanese Design"
-        }
-      },
-      {
-        "id": "wallpaper 16",
-        "src": "img/wallpapers/tablesetoudor2.jpg",
-        "user": {
-          "name": "Table Set",
-          "job": "Asian Design"
-        }
-      },
-      {
-        "id": "wallpaper 17",
-        "src": "img/wallpapers/tablesetpool.jpg",
-        "user": {
-          "name": "Table Set",
-          "job": "Modern Design"
-        }
-      },
-      {
-        "id": "wallpaper 18",
         "src": "img/wallpapers/wardrobe-drees.jpg",
         "user": {
           "name": "Wardrobe",
@@ -146,11 +122,43 @@
         }
       },
       {
-        "id": "wallpaper 19",
-        "src": "img/wallpapers/Woodland1.jpg",
+        "id": "wallpaper 16",
+        "src": "img/wallpapers/Macrame-Historical.jpg",
         "user": {
-          "name": "Wardrobe",
-          "job": "Japanese Design"
+          "name": "Wall Decoration",
+          "job": "Classic Design"
+        }
+      },
+      {
+        "id": "wallpaper 17",
+        "src": "img/wallpapers/IMG-20221118-WA0160.jpg",
+        "user": {
+          "name": "Tent",
+          "job": "Wood Model"
+        }
+      },
+      {
+        "id": "wallpaper 18",
+        "src": "img/wallpapers/",
+        "user": {
+          "name": "Batik Cloth",
+          "job": "Local Model"
+        }
+      },
+      {
+        "id": "wallpaper 19",
+        "src": "img/wallpapers/Aren_Sugar_2.png",
+        "user": {
+          "name": "Aren Sugar",
+          "job": "Local Model"
+        }
+      },
+      {
+        "id": "wallpaper 20",
+        "src": "img/wallpapers/tablesetpool.jpg",
+        "user": {
+          "name": "Table Set",
+          "job": "Modern Design"
         }
       }
     ],
