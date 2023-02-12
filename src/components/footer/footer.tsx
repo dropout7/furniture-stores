@@ -3,7 +3,19 @@ import Box from '@mui/material/Box'
 import Grid from '@mui/material/Grid'
 import Container from '@mui/material/Container'
 import Typography from '@mui/material/Typography'
+import WhatsAppIcon from '@mui/icons-material/WhatsApp'
 import { FooterNavigation, FooterSocialLinks } from '@/components/footer'
+import Fab from '@mui/material/Fab'
+import Zoom from '@mui/material/Zoom'
+import { SxProps } from '@mui/system'
+import Link from 'next/link'
+import MuiLink from '@mui/material/Link'
+
+const fabStyle = {
+  position: 'fixed',
+  bottom: 64,
+  right: 32,
+}
 
 const Footer: FC = () => {
   return (
@@ -29,6 +41,20 @@ const Footer: FC = () => {
           </Grid>
         </Grid>
       </Container>
+      <Link href="https://wa.me/083838203528" passHref>
+        <MuiLink
+          underline="hover"
+          sx={{
+            display: 'block',
+            mb: 1,
+            color: 'primary.contrastText',
+          }}
+        >
+          <Fab sx={fabStyle as SxProps} aria-label="Contact" color={'primary' as 'primary'}>
+            <WhatsAppIcon />
+          </Fab>
+        </MuiLink>
+      </Link>
     </Box>
   )
 }
