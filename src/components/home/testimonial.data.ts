@@ -3,7 +3,7 @@ import type { Testimonial } from '@/interfaces/testimonial'
 export const data: Array<Testimonial> = [
   {
     id: 1,
-    title: 'Detailed learning materials',
+    title: 'Very good design and model',
     content:
       'Classes that provide very detailed material in term of making UI UX Design starting team making low and hight quality, system designs, using data layout and make prototypes and testing.',
     user: {
@@ -15,7 +15,7 @@ export const data: Array<Testimonial> = [
   },
   {
     id: 2,
-    title: 'Best Quality Online Course!',
+    title: 'Best quality product',
     content:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
     user: {
@@ -27,7 +27,7 @@ export const data: Array<Testimonial> = [
   },
   {
     id: 3,
-    title: 'Very complete class',
+    title: 'Very more costumable',
     content:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
     user: {
@@ -51,7 +51,7 @@ export const data: Array<Testimonial> = [
   },
   {
     id: 5,
-    title: 'Detailed learning materials',
+    title: 'Very good component',
     content:
       'Classes that provide very detailed material in term of making UI UX Design starting team making low and hight quality, system designs, using data layout and make prototypes and testing.',
     user: {
