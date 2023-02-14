@@ -5,9 +5,9 @@ export const data: Array<Mentor> = [
     id: 1,
     photo: '/images/revisi/adit_8.png',
     name: 'Adit',
-    category: 'Owner',
+    category: 'Project Manager',
     description:
-      'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+      'A company developer originating from the city of Jepara who is pursuing a company exporting local products.',
     company: {
       name: 'Google',
       logo: '/images/companies/google.png',
@@ -19,7 +19,7 @@ export const data: Array<Mentor> = [
     name: 'Ardhian Sandy Perdana',
     category: 'Management',
     description:
-      'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+      'Young entrepreneurs from Brebes who want to develop local handicrafts and become export entrepreneurs.',
     company: {
       name: 'Airbnb',
       logo: '/images/companies/airbnb.png',
@@ -29,12 +29,8 @@ export const data: Array<Mentor> = [
     id: 3,
     photo: '/images/revisi/DSC00126_2.png',
     name: 'Bintan',
-    category: 'Marketing Managers',
+    category: 'Marketing Manager',
     description:
-      'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    company: {
-      name: 'Microsoft',
-      logo: '/images/companies/microsoft.png',
-    },
+      'Young entrepreneurs from Brebes who want to develop local handicrafts and become export entrepreneurs.',
   },
 ]

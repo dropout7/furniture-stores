@@ -28,7 +28,7 @@ const Footer: FC = () => {
           <Grid item xs={12} md={5}>
             <Box sx={{ width: { xs: '100%', md: 360 }, mb: { xs: 3, md: 0 } }}>
               <Typography component="h2" variant="h2" sx={{ mb: 2 }}>
-                Macrame
+                Macrame International
               </Typography>
               <Typography variant="subtitle1" sx={{ letterSpacing: 1, mb: 2 }}>
                 Macrame is a company that provides various furniture and decoration products
@@ -41,7 +41,7 @@ const Footer: FC = () => {
           </Grid>
         </Grid>
       </Container>
-      <Link href="https://wa.me/083838203528" passHref>
+      <Link href="https://wa.me/081318188889" passHref>
         <MuiLink
           underline="hover"
           sx={{
