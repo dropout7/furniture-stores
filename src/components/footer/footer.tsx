@@ -50,7 +50,7 @@ const Footer: FC = () => {
             color: 'primary.contrastText',
           }}
         >
-          <Fab sx={fabStyle as SxProps} aria-label="Contact" color={'primary' as 'primary'}>
+          <Fab sx={fabStyle as SxProps} aria-label="Contact" color="primary">
             <WhatsAppIcon />
           </Fab>
         </MuiLink>
