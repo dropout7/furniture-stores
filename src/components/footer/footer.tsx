@@ -41,7 +41,7 @@ const Footer: FC = () => {
           </Grid>
         </Grid>
       </Container>
-      <Link href="https://wa.me/081318188889" passHref>
+      <Link href="https://wa.me/+6281318188889" passHref>
         <MuiLink
           underline="hover"
           sx={{
