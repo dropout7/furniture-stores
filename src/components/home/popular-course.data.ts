@@ -65,12 +65,4 @@ export const data: Array<Course> = [
     ratingCount: 9,
     category: 'Beginner',
   },
-  {
-    id: 9,
-    cover: '/images/revisi/DSC00100.png',
-    title: 'Batik',
-    rating: 4.3,
-    ratingCount: 11,
-    category: 'Beginner',
-  },
 ]

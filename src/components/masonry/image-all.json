@@ -42,14 +42,6 @@
         }
       },
       {
-        "id": "wallpaper 6",
-        "src": "img/wallpapers/DSC00107.jpg",
-        "user": {
-          "name": "Batik Cloth",
-          "job": "Cloth"
-        }
-      },
-      {
         "id": "wallpaper 7",
         "src": "img/wallpapers/DSC00048.png",
         "user": {
@@ -71,14 +63,6 @@
         "user": {
           "name": "Casual Shoes",
           "job": "Modern Design"
-        }
-      },
-      {
-        "id": "wallpaper 10",
-        "src": "img/wallpapers/DSC00079.jpg",
-        "user": {
-          "name": "Macrame Decor",
-          "job": "Local Design"
         }
       },
       {
@@ -106,22 +90,6 @@
         }
       },
       {
-        "id": "wallpaper 14",
-        "src": "img/wallpapers/DSC08.jpg",
-        "user": {
-          "name": "Batik Cloth",
-          "job": "Local Model"
-        }
-      },
-      {
-        "id": "wallpaper 15",
-        "src": "img/wallpapers/DSC00088.jpg",
-        "user": {
-          "name": "Batik Cloth",
-          "job": "Local Model"
-        }
-      },
-      {
         "id": "wallpaper 16",
         "src": "img/wallpapers/Macrame-Historical.jpg",
         "user": {
@@ -135,14 +103,6 @@
         "user": {
           "name": "Tent",
           "job": "Wood Model"
-        }
-      },
-      {
-        "id": "wallpaper 18",
-        "src": "img/wallpapers/DSC00.jpg",
-        "user": {
-          "name": "Batik Cloth",
-          "job": "Local Model"
         }
       },
       {
