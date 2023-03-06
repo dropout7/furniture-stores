@@ -135,7 +135,7 @@ const HomeHero: FC = () => {
               <Box sx={{ mb: 4, width: { xs: '100%', md: '70%' } }}>
                 <Typography sx={{ color: '#717171', lineHeight: 1.6 }}>
                   {
-                    'We provide everything you need for your dream home to make it more comfortable with the best quality and attractive design, you can choose from a existing models or create your own design'
+                    'We serve various kinds of home decorations using macrame decorations that can be adjusted to the model and shape of the creation according to your taste'
                   }
                 </Typography>
               </Box>

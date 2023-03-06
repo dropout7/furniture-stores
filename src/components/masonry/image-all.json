@@ -3,14 +3,6 @@
     "all": [
       {
         "id": "wallpaper 1",
-        "src": "img/wallpapers/desk.jpg",
-        "user": {
-          "name": "Desk",
-          "job": "Modern Design"
-        }
-      },
-      {
-        "id": "wallpaper 2",
         "src": "img/wallpapers/Product-12.png",
         "user": {
           "name": "Outdoor Chair",
@@ -18,15 +10,7 @@
         }
       },
       {
-        "id": "wallpaper 3",
-        "src": "img/wallpapers/kitchen-.jpg",
-        "user": {
-          "name": "Kitchen Set",
-          "job": "Modern Design"
-        }
-      },
-      {
-        "id": "wallpaper 4",
+        "id": "wallpaper 2",
         "src": "img/wallpapers/Product-10-768x1024.png",
         "user": {
           "name": "Outdoor Chair",
@@ -34,15 +18,7 @@
         }
       },
       {
-        "id": "wallpaper 5",
-        "src": "img/wallpapers/wardrobe-2.jpg",
-        "user": {
-          "name": "Wardrobe",
-          "job": "Modern Design"
-        }
-      },
-      {
-        "id": "wallpaper 7",
+        "id": "wallpaper 3",
         "src": "img/wallpapers/DSC00048.png",
         "user": {
           "name": "Bag",
@@ -50,15 +26,7 @@
         }
       },
       {
-        "id": "wallpaper 8",
-        "src": "img/wallpapers/cabinet-tv.png",
-        "user": {
-          "name": "TV Cabinet",
-          "job": "Japanese Design"
-        }
-      },
-      {
-        "id": "wallpaper 9",
+        "id": "wallpaper 4",
         "src": "img/wallpapers/DSC00071.jpg",
         "user": {
           "name": "Casual Shoes",
@@ -66,31 +34,7 @@
         }
       },
       {
-        "id": "wallpaper 11",
-        "src": "img/wallpapers/dipan.jpg",
-        "user": {
-          "name": "Bed Board",
-          "job": "Modern Design"
-        }
-      },
-      {
-        "id": "wallpaper 12",
-        "src": "img/wallpapers/chairbeach.png",
-        "user": {
-          "name": "Chair Beach",
-          "job": "Casual Design"
-        }
-      },
-      {
-        "id": "wallpaper 13",
-        "src": "img/wallpapers/ousidetableset.png",
-        "user": {
-          "name": "Table Set",
-          "job": "Modern Design"
-        }
-      },
-      {
-        "id": "wallpaper 16",
+        "id": "wallpaper 5",
         "src": "img/wallpapers/Macrame-Historical.jpg",
         "user": {
           "name": "Wall Decoration",
@@ -98,7 +42,7 @@
         }
       },
       {
-        "id": "wallpaper 17",
+        "id": "wallpaper 6",
         "src": "img/wallpapers/IMG-20221118-WA0160.jpg",
         "user": {
           "name": "Tent",
@@ -106,18 +50,26 @@
         }
       },
       {
-        "id": "wallpaper 19",
-        "src": "img/wallpapers/Aren_Suga.png",
+        "id": "wallpaper 7",
+        "src": "img/wallpapers/DSC00079.jpg",
         "user": {
-          "name": "Aren Sugar",
-          "job": "Local Model"
+          "name": "Macrame",
+          "job": "Wall Decor"
         }
       },
       {
-        "id": "wallpaper 20",
-        "src": "img/wallpapers/tablesetpool.jpg",
+        "id": "wallpaper 8",
+        "src": "img/wallpapers/DSC00064.jpg",
         "user": {
-          "name": "Table Set",
+          "name": "Flat Shoes",
+          "job": "Handmade Model"
+        }
+      },
+      {
+        "id": "wallpaper 9",
+        "src": "img/wallpapers/DSC00013.jpg",
+        "user": {
+          "name": "Bag",
           "job": "Modern Design"
         }
       }
