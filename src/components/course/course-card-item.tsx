@@ -44,17 +44,6 @@ const CourseCardItem: FC<Props> = ({ item }) => {
         >
           <Image src={item.cover} width={760} height={760} alt={'Course ' + item.id} />
         </Box>
-        <Box sx={{ mb: 2 }}>
-          <Typography component="h2" variant="h5" sx={{ mb: 2, height: 56, overflow: 'hidden', fontSize: '1.2rem' }}>
-            {item.title}
-          </Typography>
-          <Box sx={{ display: 'flex', alignItems: 'center' }}>
-            <Rating name="rating-course" value={item.rating} max={5} sx={{ color: '#ffce31', mr: 1 }} readOnly />
-            <Typography component="span" variant="h5">
-              ({item.ratingCount})
-            </Typography>
-          </Box>
-        </Box>
       </Box>
     </Box>
   )
