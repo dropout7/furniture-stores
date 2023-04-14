@@ -12,23 +12,18 @@ interface Data {
 
 export const data: Data[] = [
   {
-    title: 'Water and Pest Resistant',
-    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
+    title: 'Experienced',
+    description: 'We are experienced in producing and exporting products to various countries',
     icon: <ArtTrackIcon />,
   },
   {
-    title: 'Durability 5 Years',
-    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
+    title: 'Competitive Price',
+    description: 'We provide the best and competitive prices for our customers',
     icon: <AttachMoneyIcon />,
   },
   {
-    title: 'Long Lasting Color',
-    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
+    title: 'Exelent Services',
+    description: 'We always put customer satisfaction first',
     icon: <LocalLibraryIcon />,
-  },
-  {
-    title: 'Maximum Weight 120 Pounds',
-    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore',
-    icon: <ContactSupportIcon />,
   },
 ]

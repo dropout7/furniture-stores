@@ -72,6 +72,54 @@
           "name": "Bag",
           "job": "Modern Design"
         }
+      },
+      {
+        "id": "wallpaper 9",
+        "src": "img/wallpapers/8.jpg",
+        "user": {
+          "name": "Macrame Tent",
+          "job": "Classic Design"
+        }
+      },
+      {
+        "id": "wallpaper 9",
+        "src": "img/wallpapers/D2.jpg",
+        "user": {
+          "name": "Pillow",
+          "job": "Modern Design"
+        }
+      },
+      {
+        "id": "wallpaper 9",
+        "src": "img/wallpapers/D3.jpeg",
+        "user": {
+          "name": "Macrame Tent with Chair",
+          "job": "Modern Design"
+        }
+      },
+      {
+        "id": "wallpaper 9",
+        "src": "img/wallpapers/D5.jpg",
+        "user": {
+          "name": "Umbrella Side Pool",
+          "job": "Modern Design"
+        }
+      },
+      {
+        "id": "wallpaper 9",
+        "src": "img/wallpapers/D6.jpg",
+        "user": {
+          "name": "Umbrella",
+          "job": "Modern Design"
+        }
+      },
+      {
+        "id": "wallpaper 9",
+        "src": "img/wallpapers/D1.jpg",
+        "user": {
+          "name": "Macrame Tent",
+          "job": "Modern Design"
+        }
       }
     ],
     "space": [

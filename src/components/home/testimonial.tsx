@@ -19,30 +19,6 @@ interface SliderArrowArrow {
   className?: 'string'
 }
 
-const SliderArrow: FC<SliderArrowArrow> = (props) => {
-  const { onClick, type, className } = props
-  return (
-    <IconButton
-      sx={{
-        backgroundColor: 'background.paper',
-        color: 'primary.main',
-        '&:hover': { backgroundColor: 'primary.main', color: 'primary.contrastText' },
-        bottom: { xs: '-28px !important', md: '64px !important' },
-        left: 'unset !important',
-        right: type === 'prev' ? '90px !important' : '30px !important',
-        zIndex: 10,
-        boxShadow: 1,
-      }}
-      disableRipple
-      color="inherit"
-      onClick={onClick}
-      className={className}
-    >
-      {type === 'next' ? <IconArrowForward sx={{ fontSize: 22 }} /> : <IconArrowBack sx={{ fontSize: 22 }} />}
-    </IconButton>
-  )
-}
-
 const StyledSlickContainer = styled('div')(() => ({
   position: 'relative',
 
@@ -58,8 +34,6 @@ const HomeTestimonial: FC = () => {
     speed: 300,
     slidesToShow: 1,
     slidesToScroll: 1,
-    prevArrow: <SliderArrow type="prev" />,
-    nextArrow: <SliderArrow type="next" />,
   }
 
   return (
@@ -67,44 +41,6 @@ const HomeTestimonial: FC = () => {
       <Container>
         <Grid container spacing={5}>
           <Grid item xs={12} md={6}>
-            <Typography
-              component="h2"
-              sx={{
-                position: 'relative',
-                fontSize: { xs: 36, md: 46 },
-                mt: { xs: 0, md: 7 },
-                mb: 4,
-                lineHeight: 1,
-                fontWeight: 'bold',
-              }}
-            >
-              Testimonial What our{' '}
-              <Typography
-                component="mark"
-                sx={{
-                  position: 'relative',
-                  color: 'primary.main',
-                  fontSize: 'inherit',
-                  fontWeight: 'inherit',
-                  backgroundColor: 'unset',
-                }}
-              >
-                Customer{' '}
-                <Box
-                  sx={{
-                    position: 'absolute',
-                    top: { xs: 20, md: 28 },
-                    left: 2,
-                    '& img': { width: { xs: 130, md: 175 }, height: 'auto' },
-                  }}
-                >
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src="/images/headline-curve.svg" alt="Headline curve" />
-                </Box>
-              </Typography>
-              Say
-            </Typography>
-
             <StyledSlickContainer>
               <Slider ref={sliderRef} {...sliderConfig}>
                 {data.map((item, index) => (
@@ -112,17 +48,6 @@ const HomeTestimonial: FC = () => {
                 ))}
               </Slider>
             </StyledSlickContainer>
-          </Grid>
-          <Grid item xs={12} md={6} sx={{ display: { xs: 'none', md: 'block' } }}>
-            <Box sx={{ width: { xs: '100%', md: '90%' } }}>
-              <Image
-                src="/images/storage-container-hero.png"
-                width={600}
-                height={580}
-                quality={97}
-                alt="Testimonial img"
-              />
-            </Box>
           </Grid>
         </Grid>
       </Container>
